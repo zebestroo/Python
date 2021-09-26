@@ -1,2 +1,3 @@
 First file to commit with first line
 Add another line of code
+And one change for example
