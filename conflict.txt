@@ -1,0 +1,6 @@
+### Conflict was created ###
+vim test.txt
+### Changing file with vim editor ###
+git commit
+git push origin develop
+### Solved ###
